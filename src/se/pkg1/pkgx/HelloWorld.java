@@ -1,7 +1,6 @@
 package se.pkg1.pkgx;
 
 import third.party.SomeClassThirdParty;
-
 import se.pkg1.pkgnotx.SomeClassY1;
 
 import se.pkg1.pkgx.SomeClassX1;
